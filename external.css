@@ -1,0 +1,29 @@
+body {
+    background: url(haha.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/* all h3 elements */
+h3 {
+  color: #0000CD;
+  text-align: center;
+}
+
+/* all h2 elements */
+h2 {
+  color: #2F4F4F;
+  text-align: center;
+}
+/* all h4 elements */
+h4 {
+  color: #DEB887;
+  text-align: center;
+  font-family: "Helvetica", Sans Serif
+}
+
+/* all p AND h1 elements */
+p, h1 {
+  color: black;
+  text-align: center;
+}
